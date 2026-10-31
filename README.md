@@ -69,18 +69,18 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 ---
 
 ### Integrante 2
-<div align="center">
-  <img src="./assets/integrantes/integrante2.jpg" alt="Foto integrante 2" style="border-radius: 50%; width: 180px;"><br>
+<div align="center"><img width="3508" height="2480" alt="Rótulo en PNG" src="https://github.com/user-attachments/assets/6fb4c612-f472-4c61-9bf1-3b4cc0a06024" /><img src="./assets/integrantes/integrante2.jpg" alt="Foto integrante 2" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** Cristian Esteban Agualimpia Torres
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** https://github.com/usuariogithub
-- **Rol en el equipo:** Ej. Modelado, programación, control
-- **Intereses:** Manipulación, ROS 2, control de robots
+- **Correo institucional:** cagualimpia@unal.edu.co
+- **Usuario de GitHub:** https://github.com/cristian-agualimpia
+- **Rol en el equipo:** Gestión documental, diseño mecanico
+- **Intereses:** Inteligencia Artificial, manipulación, robótica móvil, maquinaria CNC
 - **Descripción breve:**  
-  Escribe aquí una breve presentación personal y académica del integrante.
+Estudiante de 8.º semestre de Ingeniería Mecatrónica que concibe la disciplina como un eje articulador para integrar diversas áreas del conocimiento. Apasionado por la educación, la pedagogía tecnológica y la divulgación del conocimiento, combinando competencias técnicas de desarrollo con habilidades de liderazgo y gestión de comunidades académicas. Soy miembro de la rama IEEE de la universidad y de su capítulo RAS, donde he podido aprender mucho de la mano de otros estudiantes de diversas áreas, además de recibir experiencia valiosa en trabajo comunitario en fundaciones, colegios y con estudiantes de nuestra misma universidad. Como parte de esta experiencia he liderado la organización del Torneo UN Robot, talleres prácticos de robótica básica, y he podido participar en el desarrollo de proyectos como diseño de máquinas CNC.
+
 
 ---
 
